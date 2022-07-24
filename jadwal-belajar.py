@@ -8,3 +8,4 @@ class Jadwal():
     print("2. eskul")
     print("3. belajar git")
 
+  print(Jadwal.dict())
