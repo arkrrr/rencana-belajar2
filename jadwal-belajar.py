@@ -4,3 +4,4 @@ def jadwal():
   print("2. eskul")
   print("3. belajar git")
 
+ jadwal()
