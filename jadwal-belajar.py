@@ -4,4 +4,8 @@ def jadwal():
   print("2. eskul")
   print("3. belajar git")
 
- jadwal()
+ a = input("Masukkan pelajaran kesukaan anda: ")
+ if a == 'ipa':
+    jadwal()
+ else:
+   print("exit")
