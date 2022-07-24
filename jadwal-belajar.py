@@ -1,4 +1,4 @@
-def jadwal():
+class Jadwal():
   print ("jadwal belajar")
   print("1. sekolah")
   print("2. eskul")
